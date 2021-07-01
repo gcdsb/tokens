@@ -1,11 +1,11 @@
 {
- "name": "NKN Token",
- "website": "https://nkn.org/zh-hans/",
- "description": "Nkn is a decentralized Internet new point-to-point network connection protocol and ecosystem, which is supported by the new public blockchain. It uses economic incentives to encourage Internet users to share network connections and use unused bandwidth.",
- "explorer": "https://tronscan.org/#/token20/TAHJo4HeUA6Rdpcwvtdef2hYoLiiVBw73m",
+ "name": "LB Token",
+ "website": "https://www.lb.com/",
+ "description": "LB is an international company selling underwear, personal care and beauty products, clothing and accessories. The company operates nearly 2700 stores in the United States, Canada and greater China. Its brands have more than 700 franchises around the world, with more than 92000 employees. Its sales in 2020 will be $11.8 billion; In order to lead the fashion trend and improve the brand plan, 10000 coins were issued with the approval of the board of directors.",
+ "explorer": "https://tronscan.org/#/contract/TJgroczjeZKwjhR1CXhNZs52TRVfeEJU9P",
  "type": "TRC20",
- "symbol": "NKN",
- "decimals": 6,
+ "symbol": "LB",
+ "decimals": 8,
  "status": "active",
- "id": "TAHJo4HeUA6Rdpcwvtdef2hYoLiiVBw73m"
+ "id": "0x05e786c7706f4c05924847dad4fb10ac5ddff1045ad263510ff68bc5dc09ab2c"
 }
