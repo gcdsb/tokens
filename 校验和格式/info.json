@@ -1,11 +1,11 @@
 {
- "name": "TSB Token",
- "website": "https://safetsb.com/",
- "description": "TSB是为了致敬白衣天使，致敬守护生命的英雄；以区块链的形式公益性质展现，未来规划NFT落地，纪念与感恩医护人员的付出。",
- "explorer": "https://tronscan.org/#/token20/TSQfnHd5pamC1m5WYfCcLMPq1HH9swhzz2",
+ "name": "TokenPocket LB",
+ "website": "https://www.lb.com/",
+ "description": "LB is an international company selling underwear, personal care and beauty products, clothing and accessories. The company operates nearly 2700 stores in the United States, Canada and greater China. Its brands have more than 700 franchises around the world, with more than 92000 employees. Its sales in 2020 will be $11.8 billion; In order to lead the fashion trend and improve the brand plan, 10000 coins were issued with the approval of the board of directors.",
+ "explorer": "https://tronscan.org/#/contract/TJgroczjeZKwjhR1CXhNZs52TRVfeEJU9P",
  "type": "TRC20",
- "symbol": "TSB",
- "decimals": 18,
+ "symbol": "LB",
+ "decimals": 8,
  "status": "active",
- "id": "ca3dd1d903ec1ffa952614446c3429057a4a13676ed8e0c6bd594ad63c94e98b"
+ "id": "0x79d676317a91ee32091ef1db3bc148de44e6717e469c664c1aa8d9e367ee1b85"
 }
